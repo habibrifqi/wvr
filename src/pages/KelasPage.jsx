@@ -1,11 +1,12 @@
-import React from 'react'
+import React from "react";
+
 
 function KelasPage() {
   return (
     <div>
       
     </div>
-  )
+  );
 }
 
-export default KelasPage
+export default KelasPage;
